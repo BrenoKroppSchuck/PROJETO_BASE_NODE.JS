@@ -1,0 +1,19 @@
+{
+  "name": "projeto-base",
+  "version": "1.0.0",
+  "description": "Projeto-Base Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "projeto_base"
+  ],
+  "author": "Breno Kropp Schuck",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
